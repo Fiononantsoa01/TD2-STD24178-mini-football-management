@@ -1,6 +1,6 @@
 package Player;
 
-public enum Position {
+public enum PlayerPositionEnum {
     GK,
     DEF,
     MIDF,
